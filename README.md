@@ -60,14 +60,14 @@ This Bash script provides a simple, interactive terminal interface for managing 
 
 Here are some screenshots of the script in action:
 
-![Screenshot 1](shots/1.png)
-![Screenshot 2](shots/2.png)
-![Screenshot 3](shots/3.png)
-![Screenshot 4](shots/4.png)
-![Screenshot 5](shots/5.png)
-![Screenshot 6](shots/6.png)
-![Screenshot 7](shots/7.png)
-![Screenshot 8](shots/8.png)
+![Screenshot 1](https://github.com/mohamedesmael10/User_and_Group_Management_System-/blob/main/Shots/1.png)
+![Screenshot 2](https://github.com/mohamedesmael10/User_and_Group_Management_System-/blob/main/Shots/2.png)
+![Screenshot 3](https://github.com/mohamedesmael10/User_and_Group_Management_System-/blob/main/Shots/3.png)
+![Screenshot 4](https://github.com/mohamedesmael10/User_and_Group_Management_System-/blob/main/Shots/4.png)
+![Screenshot 5](https://github.com/mohamedesmael10/User_and_Group_Management_System-/blob/main/Shots/5.png)
+![Screenshot 6](https://github.com/mohamedesmael10/User_and_Group_Management_System-/blob/main/Shots/6.png)
+![Screenshot 7](https://github.com/mohamedesmael10/User_and_Group_Management_System-/blob/main/Shots/7.png)
+![Screenshot 8](https://github.com/mohamedesmael10/User_and_Group_Management_System-/blob/main/Shots/8.png)
 
 
 ## Author
