@@ -14,7 +14,7 @@ This Bash script provides a simple, interactive terminal interface for managing 
 ```
 ├── user.sh       # Script for user management
 ├── group.sh      # Script for group management
-├── main.sh       # Main script that integrates user & group management
+├── menu.sh       # Main script that integrates user & group management
 ├── shots/        # Screenshots & demo images
 └── README.md     # Documentation
 ```
@@ -42,11 +42,11 @@ This Bash script provides a simple, interactive terminal interface for managing 
    ```
 2. Give execution permissions:
    ```sh
-   chmod +x main.sh user.sh group.sh
+   chmod +x menu.sh user.sh group.sh
    ```
 3. Run the script:
    ```sh
-   ./main.sh
+   ./menu.sh
    ```
    
 ## Color Code
